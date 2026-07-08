@@ -14,5 +14,12 @@
   "seal_sha256": "7b590601455274b780fd5f31698b95eaf634bc8eb7caa6718cc29e2caea78786",
   "built_on": "David's foundational instrument skeleton, rebuilt AVAN's way (coral)",
   "license": "CC-BY-ND-4.0",
-  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+  "attribution": "ROOT0-ATTRIBUTION-v1.0",
+  "chain": {
+    "index": 22,
+    "prev": "65cd8f5a5652d4f2ec7a6e66c4c93e2089b60b8d9794f769659e3cad4668bb1a",
+    "link": "ce06b73cc5464f67b57a5440bf1fa2920cc5c120dd3b38a32e28dc2aa41becdc",
+    "head": "3447d3a0533aaf1e29a8bdc67a9774884fb3ae9dbc8a17064b7a008ca3c4ec90",
+    "chain": "ROOT0-DLW-CHAIN-v1"
+  }
 }
