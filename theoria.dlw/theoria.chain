@@ -4,6 +4,6 @@ slug  : theoria
 seal  : 7b590601455274b780fd5f31698b95eaf634bc8eb7caa6718cc29e2caea78786
 prev  : 65cd8f5a5652d4f2ec7a6e66c4c93e2089b60b8d9794f769659e3cad4668bb1a
 link  : ce06b73cc5464f67b57a5440bf1fa2920cc5c120dd3b38a32e28dc2aa41becdc
-head  : 3447d3a0533aaf1e29a8bdc67a9774884fb3ae9dbc8a17064b7a008ca3c4ec90
+head  : 13f9ace173ef2e60af38912ba329b4afcb5a38b84a0e4495e8d30327f8c99cc2
 
 — the tether: link = sha256(index|slug|seal|prev). the chain head commits to the whole corpus.
