@@ -1,9 +1,9 @@
 ROOT0-DLW-CHAIN-v1
 index : 22
 slug  : theoria
-seal  : 7b590601455274b780fd5f31698b95eaf634bc8eb7caa6718cc29e2caea78786
-prev  : 65cd8f5a5652d4f2ec7a6e66c4c93e2089b60b8d9794f769659e3cad4668bb1a
-link  : ce06b73cc5464f67b57a5440bf1fa2920cc5c120dd3b38a32e28dc2aa41becdc
-head  : 13f9ace173ef2e60af38912ba329b4afcb5a38b84a0e4495e8d30327f8c99cc2
+seal  : f2854a2b8d3e0f7009d624f83dbd85ceac2a79fbb24d2f119cf24f7b498444f7
+prev  : d7c14be1084946bdfa4a40bc628f30827aa95ab3be3d53ebe3cf123151a59308
+link  : e9911f15b0ee578958d92e5f6e1095b5f0412b5f24298ac624bacaca6e3faa59
+head  : c4d41afeaef76470528856d54d86cf480a0e1c2fc8ebc60fbb9eb8e442585f2b
 
 — the tether: link = sha256(index|slug|seal|prev). the chain head commits to the whole corpus.
